@@ -7,7 +7,7 @@ This will download all the [OFF-GRID WX DATA](https://data.offgridwx.com/).
 Python is required.
 
 > - Update the `shortcodes.txt` with your state on the items that are state specific.
-> - Frist time run `chmod +x`
+> - Frist time run `chmod +x ./run.sh`
 > - Run `./run.sh`
 
 All files download will be in the `download` folder.
